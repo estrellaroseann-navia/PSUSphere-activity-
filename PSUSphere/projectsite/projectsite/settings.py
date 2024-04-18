@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2vf#84vylb*l_xm8q@%0)a*u^^k&yx1gn(8&15)b9--g_@3wjh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://rodex1.pythonanywhere.com/']
+ALLOWED_HOSTS = ['rodex1.pythonanywhere.com', '127.0.0.1']
 
 # Application definition
 
